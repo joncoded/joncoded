@@ -1,17 +1,25 @@
-# Joncoded
+# joncoded
 
-* [joncoded.com](https://joncoded.com)
-* [telegram](https://t.me/s/joncoded)
+- i don't believe in the hype of having a "commit" every day
 
 current (passion) projects include:
 
-AI
+## web
+
+* [jonobase](https://joncoded.com/code/projects/jonobase)
+* [jonolist](https://joncoded.github.io/jonolist)
+* [jononews](https://jononews.joncoded.com)
+
+## ai
 
 * [docotoco](https://docotoco.streamlit.app)
 * [esleasel](https://esleasel.streamlit.app)
 
-Web 
+## blogs
 
-* [jonobase](https://joncoded.com/code/projects/jonobase)
-* [jonolist](https://jonolist.joncoded.com)
-* [jononews](https://jononews.joncoded.com)
+* [joncoded.com](https://joncoded.com)
+* [jonchius.com](https://jonchius.com)
+
+## microblogs
+
+* [telegram](https://t.me/s/joncoded)
