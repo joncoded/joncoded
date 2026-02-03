@@ -13,5 +13,5 @@ AI
 Web 
 
 * [jonobase](https://joncoded.com/code/projects/jonobase)
-* [jonolist](https://jonolist.joncoded.com)
+* [jonolist](https://jonolist.jonchius.com)
 * [jononews](https://jononews.joncoded.com)
