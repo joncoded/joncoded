@@ -2,18 +2,18 @@
 
 ## coding-and-living
 
-| project | description |
-| :--- | :--- |
-| 📝 [joncoded](https://joncoded.com) | blog (using Next.js) |
-| 🔑 [keywords](https://keywords.joncoded.com) | language-learning web app (using an LLM) |
-| 📋 [loglists](https://loglists.joncoded.com) | Google Spreadsheet to a website (using Alpine.js) |
-| 💿 [mixmarks](https://mixmarks.joncoded.com) | website portfolio platform (using Next.js) |
-| 📰 [newsnook](https://newsnook.joncoded.com) | read news without the ads and fuss |
-| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [panglish](https://panglish.joncoded.com) | translate an English phrase to English, but without foreign influences (using an LLM) |
-| 🇬🇧 [esleasel](https://esleasel.streamlit.app) | analyze a PDF and understand it better with LLMs |
+|  | project | repo | description | tech |
+| :--- | :--- | :--- | :--- | :-- |
+| 📝 | [joncoded](https://joncoded.com) | [repo](https://github.com/joncoded/jonobase) | blog UI for sanity | next.js + sanity|
+| 🔑 | [keywords](https://keywords.joncoded.com) | [repo](https://github.com/joncoded/keywords) | blog UI + word teacher | next.js + AI |
+| 📋 | [loglists](https://loglists.joncoded.com) | [repo](https://github.com/joncoded/loglists) | spreadsheet to website | alpine.js + google sheets |
+| 💿 | [mixmarks](https://mixmarks.joncoded.com) | [repo](https://github.com/joncoded/mixmarks) | web development portfolio platform | next.js |
+| 📰 | [newsnook](https://newsnook.joncoded.com) | [repo](https://github.com/joncoded/newsnook) | news reader + filterer | next.js + cookies |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | [panglish](https://panglish.joncoded.com) | [repo](https://github.com/joncoded/panglish) | make English straightforward again | next.js + AI |
+| 🇬🇧 | [esleasel](https://esleasel.streamlit.app) | [repo](https://github.com/joncoded/esleasel) | read PDF files and understand them better | streamlit + AI |
   
 ## up-and-coming
 
-| project | description |
-| :--- | :--- |
-| 🖼️ [oldopens](https://oldopens.joncoded.com) | public domain content repository |
+|  | project | repo | description | tech |
+| :--- | :--- | :--- | :--- | :---|
+| 🖼️ | [oldopens](https://oldopens.joncoded.com) | [repo](https://github.com/joncoded/oldopens) | public domain content repository | (uploads)
