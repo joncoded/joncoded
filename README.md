@@ -12,8 +12,3 @@
 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | [panglish](https://panglish.joncoded.com) | [repo](https://github.com/joncoded/panglish) | make English straightforward again | next.js + AI |
 | 🇬🇧 | [esleasel](https://esleasel.streamlit.app) | [repo](https://github.com/joncoded/esleasel) | read PDF files and understand them better | streamlit + AI |
   
-## up-and-coming
-
-|  | project | repo | description | tech |
-| :--- | :--- | :--- | :--- | :---|
-| 💿 | [oldopens](https://oldopens.joncoded.com) | [repo](https://github.com/joncoded/oldopens) | public domain content repository | (uploads)
