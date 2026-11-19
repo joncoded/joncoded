@@ -1,8 +1,8 @@
 # joncoded
 
-if only you knew how great things could become
+runtimes + snippets + thoughts
 
-|  | project | repo | description | tech |
+|  | app | repo | gist | tools |
 | :--- | :--- | :--- | :--- | :-- |
 | 📝 | [jonobase](https://joncoded.com) | [repo](https://github.com/joncoded/jonobase) | blog framework for sanity | next.js + sanity|
 | 🔑 | [keywords](https://keywords.joncoded.com) | [repo](https://github.com/joncoded/keywords) | writing analysis tool proof-of-concept | next.js + AI |
