@@ -2,6 +2,7 @@
 
 runtimes + snippets + thoughts
 
+<!--
 |  | app | repo | gist | tools |
 | :--- | :--- | :--- | :--- | :-- |
 | 📝 | [jonobase](https://joncoded.com) | [repo](https://github.com/joncoded/jonobase) | blog framework for sanity | next.js + sanity|
@@ -10,3 +11,4 @@ runtimes + snippets + thoughts
 | 📰 | [newsnook](https://newsnook.joncoded.com) | [repo](https://github.com/joncoded/newsnook) | news reader + filterer | next.js + cookies |
 | 🤖 | [runtimes](https://runtimes.joncoded.com) | [repo](https://github.com/joncoded/runtimes) | web "portfolio" framework | next.js |
 | 🇬🇧 | [esleasel](https://esleasel.streamlit.app) | [repo](https://github.com/joncoded/esleasel) | read PDF files and learn English words | streamlit + AI |
+--->
